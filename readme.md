@@ -7,18 +7,18 @@ It includes categories like breakfast, lunch, dinner, drinks and sweets which ma
 
 ## Features
 
-1-   Organized menu with multiple categories.
-2-   Clear items descriptions and balanced pricing.
-3-   Responsive layout.
-4-   All dishes are KOREAN.
+1.   Organized menu with multiple categories.
+2.  Clear items descriptions and balanced pricing.
+3.   Responsive layout.
+4.   All dishes are KOREAN.
 
 ---
 
 ## Technology used
 
-1-   **HTML**             ->  for structure
-2-   **CSS**              ->  for styling
-3-   **JavaScript**       ->  for iteractive layout
+-   **HTML**             ->  for structure
+-   **CSS**              ->  for styling
+-   **JavaScript**       ->  for iteractive layout
 
 ---
 
