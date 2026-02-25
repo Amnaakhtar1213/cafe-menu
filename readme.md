@@ -1,6 +1,7 @@
 ##  CAFE MENU
 
-This is a simple cafe menu website that i buit it for practicing code and design.The site displays 20 food items with names, price, and short descriptions.It includes categories like breakfast, lunch, dinner, drinks and sweets which makes easy to browse.
+This is a simple cafe menu website that i buit it for practicing code and design.  The site displays 20 food items with names, price, and short descriptions.
+It includes categories like breakfast, lunch, dinner, drinks and sweets which makes easy to browse.
 
 ---
 
