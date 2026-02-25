@@ -22,8 +22,11 @@ It includes categories like breakfast, lunch, dinner, drinks and sweets which ma
 
 ---
 
-## How to Run 
+## How to Run
 
-Clone this repository
+Clone this repository:
+
+[Click here to view on GitHub](https://github.com/Amnaakhtar1213/cafe-menu)
+
 ```bash
-git clone "https://github.com/Amnaakhtar1213/cafe-menu.git"
+git clone https://github.com/Amnaakhtar1213/cafe-menu.git
