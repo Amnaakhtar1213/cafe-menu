@@ -1,0 +1,28 @@
+##  CAFE MENU
+
+This is a simple cafe menu website that i buit it for practicing code and design.The site displays 20 food items with names, price, and short descriptions.It includes categories like breakfast, lunch, dinner, drinks and sweets which makes easy to browse.
+
+---
+
+## Features
+
+1-   Organized menu with multiple categories.
+2-   Clear items descriptions and balanced pricing.
+3-   Responsive layout.
+4-   All dishes are KOREAN.
+
+---
+
+## Technology used
+
+1-   **HTML**             ->  for structure
+2-   **CSS**              ->  for styling
+3-   **JavaScript**       ->  for iteractive layout
+
+---
+
+## How to Run 
+
+Clone this repository
+```bash
+git clone "
