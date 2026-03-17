@@ -1,6 +1,6 @@
 ##  CAFE MENU
 
-This is a simple cafe menu website that i buit it for practicing code and design.  The site displays 20 food items with names, price, and short descriptions.
+This is a resturant style menu website that i buit it for practicing code and designing. The site displays 20 KOREAN food items with names, price, and short descriptions.
 It includes categories like breakfast, lunch, dinner, drinks and sweets which makes easy to browse.
 
 ---
@@ -8,7 +8,7 @@ It includes categories like breakfast, lunch, dinner, drinks and sweets which ma
 ## Features
 
 1.   Organized menu with multiple categories.
-2.  Clear items descriptions and balanced pricing.
+2.   Clear items descriptions and balanced pricing.
 3.   Responsive layout.
 4.   All dishes are KOREAN.
 
